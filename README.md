@@ -1,2 +1,2 @@
 # simplestia
-# (Youtube Channel Video Source Sode)
+(Youtube Channel Video Source Code)
